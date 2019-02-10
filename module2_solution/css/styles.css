@@ -26,7 +26,8 @@ h1 {
 	margin-right: 10px;
   	margin-left: 10px;
   	margin-top: 10px;
-  	border: 1px thick black;
+  	border: 3px black;
+  	border-width: thick;
   	background-color: grey;
 }
 
@@ -35,7 +36,8 @@ h1 {
 	position: relative;
 	float:right;
 	padding: 5px;
-	border: 1px thick black;
+	border: 3px black;
+	border-width: thick;
 	color: black;
 	font-weight: bold;
 	font-size: 1.25em;
@@ -46,7 +48,8 @@ h1 {
 .content{
 	position: relative;
 	clear:right;
-	border: 1px thick black;
+	border: 3px black;
+	border-width: thick;
 	color: black;
 	font-weight: bold;
 	text-align: left;
