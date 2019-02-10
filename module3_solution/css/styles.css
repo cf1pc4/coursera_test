@@ -25,12 +25,12 @@
     border: 1px solid black;
 }
 
-#menu {
+.menu {
 	background-color: #DCD3D3;
 	margin-top: 15px;
 }
 
-#menu h2 {
+.menu h2 {
 	text-align: center;
 	padding-top: 15px;
 }
